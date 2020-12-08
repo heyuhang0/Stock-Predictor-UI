@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.eslintcache
+
+# python
+*.pyc
+
+# editor
+/.vscode
+
+# credentials
+/backend/.env
